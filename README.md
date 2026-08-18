@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nischala755/Infrd_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/nischala755/Infrd_Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nischala755/Infrd_Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nischala755/Infrd_Practice/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nischala755/Infrd_Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
