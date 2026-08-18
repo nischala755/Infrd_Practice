@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nischala755/Infrd_Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nischala755/Infrd_Practice/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nischala755/Infrd_Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
