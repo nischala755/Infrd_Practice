@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nischala755/Infrd_Practice/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nischala755/Infrd_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nischala755/Infrd_Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nischala755/Infrd_Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
