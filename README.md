@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nischala755/Infrd_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nischala755/Infrd_Practice/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nischala755/Infrd_Practice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/nischala755/Infrd_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nischala755/Infrd_Practice/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nischala755/Infrd_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nischala755/Infrd_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
