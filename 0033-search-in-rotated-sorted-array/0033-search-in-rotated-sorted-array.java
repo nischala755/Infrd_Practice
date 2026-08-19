@@ -9,7 +9,7 @@ class Solution {
             if(nums[mid]==target) return mid;
             if(nums[start]<=nums[mid])
             {
-                if(nums[start]<=target && target<nums[mid])
+                if(nums[start]<=target  && target<nums[mid])
                 {
                     end=mid-1;
                 }
@@ -18,7 +18,7 @@ class Solution {
                     start=mid+1;
                 }
             }
-            else
+            else 
             {
                 if(nums[mid]<=target && target<=nums[end])
                 {
