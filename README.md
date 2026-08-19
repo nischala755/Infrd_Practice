@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nischala755/Infrd_Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nischala755/Infrd_Practice/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nischala755/Infrd_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nischala755/Infrd_Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nischala755/Infrd_Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nischala755/Infrd_Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nischala755/Infrd_Practice/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nischala755/Infrd_Practice/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
