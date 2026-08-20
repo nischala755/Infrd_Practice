@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nischala755/Infrd_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/nischala755/Infrd_Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nischala755/Infrd_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nischala755/Infrd_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nischala755/Infrd_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nischala755/Infrd_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nischala755/Infrd_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nischala755/Infrd_Practice/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/nischala755/Infrd_Practice/tree/master/0242-valid-anagram) |
 ## Bracket Sequences
 |  |
 | ------- |
