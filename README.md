@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nischala755/Infrd_Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nischala755/Infrd_Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nischala755/Infrd_Practice/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/nischala755/Infrd_Practice/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nischala755/Infrd_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nischala755/Infrd_Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nischala755/Infrd_Practice/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/nischala755/Infrd_Practice/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nischala755/Infrd_Practice/tree/master/0200-number-of-islands) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nischala755/Infrd_Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
