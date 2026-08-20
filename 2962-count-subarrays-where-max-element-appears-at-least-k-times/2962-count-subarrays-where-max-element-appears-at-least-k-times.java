@@ -1,9 +1,9 @@
 class Solution {
     public long countSubarrays(int[] nums, int k) {
         int n=nums.length;
-        int left=0;
-        long total=0;
         int count=0;
+        long total=0;
+        int left=0;
         int max_ele=Integer.MIN_VALUE;
         for(int i=0;i<n;i++)
         {
@@ -22,9 +22,8 @@ class Solution {
                 {
                     count--;
                 }
-                 left++;
+                left++;
             }
-       
         }
         return total;
         
