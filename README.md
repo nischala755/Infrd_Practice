@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nischala755/Infrd_Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nischala755/Infrd_Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nischala755/Infrd_Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nischala755/Infrd_Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nischala755/Infrd_Practice/tree/master/0322-coin-change) |
 ## String
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nischala755/Infrd_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nischala755/Infrd_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
