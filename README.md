@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nischala755/Infrd_Practice/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nischala755/Infrd_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/nischala755/Infrd_Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/nischala755/Infrd_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nischala755/Infrd_Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/nischala755/Infrd_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/nischala755/Infrd_Practice/tree/master/0303-range-sum-query-immutable) |
 ## Tree
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nischala755/Infrd_Practice/tree/master/1143-longest-common-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nischala755/Infrd_Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
