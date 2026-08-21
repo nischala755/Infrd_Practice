@@ -4,6 +4,7 @@ class Solution {
         int[] prefix=new int[n];
         prefix[0]=1;
         int[] suffix=new int[n];
+        int[] ans=new int[n];
         suffix[n-1]=1;
         for(int i=1;i<n;i++)
         {
@@ -15,9 +16,8 @@ class Solution {
         }
         for(int i=0;i<n;i++)
         {
-            nums[i]=prefix[i]*suffix[i];
+            ans[i]=prefix[i]*suffix[i];
         }
-        return nums;
-        
+        return ans;
     }
 }
