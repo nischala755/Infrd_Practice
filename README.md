@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nischala755/Infrd_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nischala755/Infrd_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nischala755/Infrd_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/nischala755/Infrd_Practice/tree/master/0704-binary-search) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/nischala755/Infrd_Practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nischala755/Infrd_Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/nischala755/Infrd_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/nischala755/Infrd_Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
