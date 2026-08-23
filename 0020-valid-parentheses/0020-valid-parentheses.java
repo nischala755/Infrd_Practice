@@ -2,7 +2,7 @@ class Solution {
     public boolean isValid(String s) {
         int length=s.length();
         Stack<Character>stack=new Stack<>();
-        for(int i=0;i<length;i++)
+        for(int i=0;i<length;i++) // instead of looping through entire stirng i will loop through an array this will give me O(n) retrieval
         {
             char c=s.charAt(i);//get the current character
             if(c=='('||c=='{'||c=='[')
