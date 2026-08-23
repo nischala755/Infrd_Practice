@@ -1,21 +1,28 @@
 class Solution {
     public boolean isValid(String s) {
-        HashMap<Character,Character> map=new HashMap<>();
-        Stack<Character> stack=new Stack<>();
-        map.put(')','(');
-        map.put('}','{');
-        map.put(']','[');
-        for(int i=0;i<s.length();i++)
+        int length=s.length();
+        Stack<Character>stack=new Stack<>();
+        for(int i=0;i<length;i++)
         {
-            char cur=s.charAt(i);
-            if(map.containsKey(cur))
+            char c=s.charAt(i);//get the current character
+            if(c=='('||c=='{'||c=='[')
             {
-                if(stack.isEmpty() || stack.pop() != map.get(cur)) return false;
+                stack.push(c);//push it into the stack whenever it is an opening bracket of any type
             }
+           
             else
-            stack.push(cur);
+            {
+                
+                if(stack.isEmpty()) return false;
+                 char top=stack.pop();//use the pop op from stack and get the top element of the stack
+                
+                    if(c==')' && top!='(') return false; // if the current character is a closing brace and the top element of the stack is not corresponding opening brace kindly return false
+                    if(c=='}' && top!='{') return false;
+                    if(c==']' && top!='[') return false;
+                }
+            
         }
-        return stack.isEmpty();
+        return stack.isEmpty(); // if all the char are processed and the stack is empty then it is a valid string -> true 
         
     }
 }
