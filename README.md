@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nischala755/Infrd_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nischala755/Infrd_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nischala755/Infrd_Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nischala755/Infrd_Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nischala755/Infrd_Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nischala755/Infrd_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nischala755/Infrd_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nischala755/Infrd_Practice/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/nischala755/Infrd_Practice/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nischala755/Infrd_Practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/nischala755/Infrd_Practice/tree/master/0078-subsets) |
 ## Design
 |  |
 | ------- |
