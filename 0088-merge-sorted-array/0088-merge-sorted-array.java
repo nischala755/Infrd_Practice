@@ -5,28 +5,22 @@ class Solution {
         int r=m+n-1;
         while(p>=0 && q>=0)
         {
-            if(nums1[p]>nums2[q])
+            if(nums1[p]<nums2[q])
             {
-                int temp=nums1[p];
-                nums1[p]=nums1[r];
-                nums1[r]=temp;
-                p--;
+                nums1[r]=nums2[q];
+                q--;
                 r--;
             }
             else
             {
-                int temp=nums2[q];
-                nums2[q]=nums1[r];
-                nums1[r]=temp;
-                q--;
+                nums1[r]=nums1[p];
+                p--;
                 r--;
             }
         }
         while(q>=0)
         {
-            int temp=nums2[q];
-            nums2[q]=nums1[r];
-            nums1[r]=temp;
+           nums1[r]=nums2[q];
             q--;
             r--;
         }
